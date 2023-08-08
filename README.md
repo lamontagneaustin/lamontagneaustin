@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lamontagneaustin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning the basics to Software in CS 3500 at the University of Utah.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello, my name is Austin LaMontagne.
+- 👀 Currently Interning Abroad in Tokyo with Advantech JP.
+- 🌱 Studying Computer Engineering at the University of Utah.
+- 💞️ I’m open to collaborate with anyone, feel free to reach out.
 - 📫 How to reach me: lamontagneaustin@gmail.com
 
 <!---
