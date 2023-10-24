@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Austin LaMontagne.
-- 👀 Currently Interning Abroad in Tokyo with Advantech JP.
-- 🌱 Studying Computer Engineering at the University of Utah.
+- 🌱 Computer Engineering Undergrad at the University of Utah.
+- 👀 Currently refining my C skills and learning React Native.
 - 💞️ I’m open to collaborate with anyone, feel free to reach out.
 - 📫 How to reach me: lamontagneaustin@gmail.com
 
