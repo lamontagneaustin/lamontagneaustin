@@ -3,7 +3,7 @@
 </h3>
 <p>
   My name is Austin LaMontagne. I'm a 6th year undergrad studying Computer Engineering at the 
-  <a href="https://www.utah.edu/">University of Utah</a>. I'm currently studying operating systems with 
+  <a href="https://www.ece.utah.edu/">University of Utah</a>. I'm currently studying operating systems with 
   <a href="https://pdos.csail.mit.edu/6.828/2018/xv6.html">xv6</a> as a source to learn.
 </p>
 <p>
